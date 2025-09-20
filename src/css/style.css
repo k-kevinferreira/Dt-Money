@@ -220,3 +220,42 @@ span {
     color: #e83f5b;
 }
 
+/* ------------------------- Paginas----------------------------------------
+---------------------------------------------------------------------
+ */
+
+.paginas {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 20px;
+}
+
+.paginas button {
+  background: #323238;
+  border: none;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.paginas button.active {
+  background: #00b37e;
+  color: white;
+}
+
+.paginas button.green {
+  color: white;
+  background-color: transparent;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.paginas button.escuro {
+  color: white;
+  text-decoration: none;
+  background-color: transparent;
+  font-size: 1rem;
+  font-weight: bold;
+}
