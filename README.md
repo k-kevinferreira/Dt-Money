@@ -44,6 +44,8 @@ Compreender o uso de flexbox e espaçamentos para alinhamento de elementos.
 
 ## 👨‍🏫 Créditos
 
+Desenvolvedor: Kevin Ferreira
+
 Professor: Robson
 
 Instituição: Escola de Futuro Paulo Renato de Souza
