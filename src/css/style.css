@@ -259,3 +259,20 @@ span {
   font-size: 1rem;
   font-weight: bold;
 }
+
+p {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p a{
+    text-decoration: none;
+    color: white;
+}
+
+p a:hover{
+    text-decoration: underline;
+}
